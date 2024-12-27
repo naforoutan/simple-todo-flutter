@@ -34,5 +34,5 @@ There are two branches in this repository. The main branch contains a pure Flutt
 
 
 ## 🚀 About Me
-- [@nforoutann](https://github.com/nforoutann)
-I'm a Computer Engineering (Computer Science) student at Shahid Beheshti University, passionate about technology, a lifelong learner, and professional nerd.
+- [@nforoutann](https://github.com/naforoutan)
+I'm a Computer Engineering (Computer Science) student at Shahid Beheshti University
